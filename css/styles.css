@@ -1,0 +1,16 @@
+#absconder {
+    border: 1px solid rebeccapurple;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 50px;
+    background-image: url('../img/yellow.png');
+    background-size: cover;
+    border-radius: 50%;
+
+}
+
+#demo {
+    text-align: center;
+    font-size: 32px;
+    margin: 67px 2px 5px 5px;}
